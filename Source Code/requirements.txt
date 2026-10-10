@@ -1,0 +1,4 @@
+# File2MD runtime dependencies
+# Lightweight on purpose: only MarkItDown + (optional) drag-and-drop.
+markitdown[all]>=0.0.16
+tkinterdnd2>=0.4.2
